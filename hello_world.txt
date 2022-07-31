@@ -1,1 +1,6 @@
 this is mikes first git project
+
+"Hello odin"
+
+sup
+
